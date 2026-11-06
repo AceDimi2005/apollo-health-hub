@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Apollo for iPhone and Apple Watch: Privacy Policy
 
-_Last updated: 5 November 2026_
+_Last updated: 6 November 2026_
 
 Apollo is an app for Apollo, a self-hosted health data hub. You run the Apollo server yourself (on your own computer, NAS or server), and the app connects only to the server address you enter.
 
@@ -37,9 +37,11 @@ When you search for foods, your server may query Open Food Facts or USDA FoodDat
 
 Apollo is not directed at children under 13.
 
-## Deleting your data
+## Deleting your account and data
 
-Your data lives on your Apollo server; delete it there. Signing out of the app removes the token and server address from the device and revokes the Apple Watch token.
+In the app, go to Settings → Delete account and confirm with your password. Your Apollo server then permanently deletes the account and all of its data (measurements, food logs, workouts, photos, settings and tokens), and the app signs out on your iPhone and Apple Watch. You can do the same in the Apollo web app (Settings → Profile → Delete account). Data you keep in Apple Health stays there.
+
+Signing out of the app (without deleting the account) removes the token and server address from the device and revokes the Apple Watch token.
 
 ## Contact
 

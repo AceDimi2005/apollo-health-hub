@@ -31,4 +31,4 @@ Want to look around first? Tap **Explore with sample data** on the first screen.
 
 **Where is my data stored?** Only on your Apollo server. See the [privacy policy](privacy/).
 
-**How do I delete my data?** Delete it on your Apollo server. Signing out of the app removes the server address and token from your devices.
+**How do I delete my account and data?** In the app: Settings → Delete account, then confirm with your password. Your Apollo server deletes the account and all of its data, and the app signs out on iPhone and Apple Watch. Signing out alone only removes the server address and token from your devices.
